@@ -9401,6 +9401,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="147.32" y1="129.54" x2="147.32" y2="185.42" width="0.2032" layer="97" style="shortdash"/>
 <wire x1="248.92" y1="129.54" x2="147.32" y2="129.54" width="0.2032" layer="97" style="shortdash"/>
 <text x="182.88" y="175.26" size="1.778" layer="97" font="vector">VCC Range: 1.9v-3.6v</text>
+<text x="170.688" y="11.43" size="2.54" layer="94">Joel Bartlett</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
