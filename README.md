@@ -3,7 +3,7 @@ Qwiic Shield for Photon
 
 ![Qwiic Shield for Photon](https://cdn.sparkfun.com/assets/parts/1/2/1/4/2/Qwiic_Photon_Shield_05.jpg)
 
-[*SPX-14202*](https://www.sparkfun.com/products/14003)
+[*SPX-14202*](https://www.sparkfun.com/products/14202)
 
 License Information
 -------------------
