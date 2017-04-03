@@ -5,6 +5,8 @@ Qwiic Shield for Photon
 
 [*SPX-14202*](https://www.sparkfun.com/products/14202)
 
+The Qwiic Shield for Photo connects the I<sup>2</sup>C bus (GND, 3.3V, SDA, and SCL) from the [Particle Photon](https://www.sparkfun.com/products/13774) to the SparkFun Qwiic system. 
+
 License Information
 -------------------
 
